@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an aspiring kernel/OS developer who's also interested in AI/ML. 
+I'm an aspiring kernel/OS developer who's also interested in AI/ML. I'm still in the process of migrating all of my projects to GitHub.
 
 I know a number of languages but my main two are C (for kernel development) and Python (for AI/machine learning). I also know x86 assembly language and am familiar with web development languages (HTML, CSS, JavaScript, Flask), as well as both relational (SQL) and non-relational databases. I'm currently working on some contributions to the Linux kernel (like drivers for some things I own that aren't supported by Linux), and I'm always learning about low-level software and hardware.
