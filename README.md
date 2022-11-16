@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an aspiring kernel/OS/software engineer who's also interested in AI/ML. I'm currently migrating all of my projects to GitHub.
-
-I know a number of languages but my main two are C (for kernel development) and Python (for AI/machine learning). I also know x86 assembly language and am familiar with web development languages (HTML, CSS, JavaScript, Flask), as well as both relational (SQL) and non-relational databases. I'm currently working on some contributions to the Linux kernel (like drivers for some things I own that aren't supported by Linux), and I'm always learning about low-level software and hardware. I'm also learning Rust, due to it's increasing prevalence in the Linux kernel (and just generally in performance-sensitive programming).
+I'm an aspiring low-level/backend SWE with experience primarily in C, C++ and Python. I'm also familiar with JavaScript and Hack (Meta's fork of PHP). I#m also interested in hardware, and like to study electrical engineering and toy with electronics in my free time. I'm currently at Meta as a Software Engineer Apprentice, and am looking to go into embedded systems and low-level development later in my career (kernel, drivers, firmware), 
